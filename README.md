@@ -1,16 +1,15 @@
 
 <img src="https://github.com/Esamoddin2002/Esamoddin2002/blob/main/Data%20Analyst.png" alt="Logo" style="width: 1050px;">
 <h1 align="center">Hi 👋, I'm Esamoddin</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst </h3>
 <image align="right" alt="Coding" width ="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamoddin2002&label=Profile%20views&color=0e75b6&style=flat" alt="esamoddin2002" /> </p>
 
 - 😊I have successfully completed This Project [Portfolio](https://github.com/Esamoddin2002/BharatIntern_Portfolio-)
 
-- 🌱 I’m currently learning **Power Bi, Excel**
-
 - 😊I have successfully completed This Project [Temperature Converter](https://github.com/Esamoddin2002/Bharat-Intern-Temperature-_Converter-)
+- 🌱 I’m currently learning **Power Bi, Excel**
 
 - 👨‍💻 All of my projects are available at [https://campsite.bio/esamoddin](https://campsite.bio/esamoddin)
 
@@ -21,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esamoddin mahmad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esamoddin mahmad ali" height="30" width="40" /></a>
-<a href="https://instagram.com/esam_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esam_05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emp_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emp_05" height="30" width="40" /></a>
+<a href="https://instagram.com/esam__05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esam_05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Emp_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emp_05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@esamoddinesam721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@esamoddinesam721" height="30" width="40" /></a>
 </p>
 
