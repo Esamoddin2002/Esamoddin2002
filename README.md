@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Esamoddin2002/Esamoddin2002/blob/main/Data%20Analyst.png" alt="Logo" style="width: 1050px;">
+<img src="https://github.com/Esamoddin2002/Esamoddin2002/blob/main/Blue%20and%20White%20Minimalist%20BI%20Consultant%20LinkedIn%20Banner%20(1).png" alt="Logo" style="width: 1050 px;">
 <h1 align="center">Hi 👋, I'm Esamoddin</h1>
 <h3 align="center">A passionate Data Analyst </h3>
 <image align="right" alt="Coding" width ="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" >
